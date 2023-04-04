@@ -5,7 +5,7 @@ Aluno de Engenharia de Software, conhecimento em Python, C#, Javascript, CSS, HT
 À procura da oportunidade de ingressar na carreira!
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedruskera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedruskera&show_icons=true&theme=dark)
 
 ### Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedruskera&repo=App_Video&theme=dark)](https://github.com/Pedruskera/APP_VIDEO)
